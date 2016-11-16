@@ -1,0 +1,49 @@
+/*No tocar este codigo*/ 
+.sidebar-closed > #sidebar > ul {
+    display: none;
+}
+
+.sidebar-closed #main-content {
+    margin-left: 0px;
+}
+
+.sidebar-closed #sidebar {
+    margin-left: -180px;
+}
+
+/*Escribe aqui tu codigo */
+
+/*Estilos del Dashboard*/
+
+#container {
+	background-color: #E5E3E3;
+}
+
+/*estilos del header*/
+.header, .logo {
+	background-color: #4D5666;
+	color: white;
+	height: 80px;
+	padding-top: 28px;
+
+}
+.boton {
+	background-color: purple;
+}
+
+/*estilos del sidebar*/
+.sidebar-toggle-box, .logo {
+	display: inline;
+	margin-top: 15px;
+}
+.ds {
+	background-color: white;
+}
+.nav-collapse {
+	
+}
+.sidebar-menu {
+	background-color: #4D5666;
+	height: 600px;
+	margin-top: 0;
+}
