@@ -13,41 +13,17 @@
 
 /*Escribe aqui tu codigo */
 
-/*Estilos del Dashboard*/
-
-#container {
-	background-color: #E5E3E3;
-}
-
-/*estilos del header*/
-
-header {
-	background-color: #4D5666;
-	height: 60px;
-}
-.sidebar-toggle-box, .logo {
-	color: white;
-	display: inline;
-	margin-left: 20px;
-}
-.logout {
-	color: white;
-	background-color: purple;
-	margin-right: 20px;
-	border-radius: 10px;
-	padding-bottom: 10px;
+/*CONTENEDOR DEL MEDIO*/
+#main-content {
+	background-color: #D8D5D5;
+	position: relative;
+	margin-left: 190px;
 }
 
 
-/*estilos del sidebar*/
-.ds {
-	background-color: white;
-}
 
-.sidebar {
-	background-color: #4D5666;
-	height: 600px;
-	margin-top: 60;
-	margin-bottom: 0;
-
+.header {
+	width: 100%;
+	background-color: grey;
+	height:50px;
 }
