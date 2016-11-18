@@ -13,17 +13,45 @@
 
 /*Escribe aqui tu codigo */
 
-/*CONTENEDOR DEL MEDIO*/
 #main-content {
-	background-color: #D8D5D5;
-	position: relative;
-	margin-left: 190px;
+	background-color: #B7B1B1;
+}
+header {
+	background-color: grey;
+	color: white;
+	font-size: 14px;
+}
+.sidebar-toggle-box, .logo{
+	display: inline-block;
+	color: white;
+	margin-left: 10px;
+	margin-top: 20px;
+	height: 40px;
+}
+.logout {
+	background-color: purple;
+	color: white;
+	margin-top: 8px;
+	margin-right: 8px;
+}
+.ds {
+	background-color: white;
+}
+.ds h3 {
+	background-color: purple;
+	color:white;
+	padding: 8px;
+	font-size: 14px;
+	text-align: center;
+}
+.ds span, i {
+	background-color: #35C9F4;
+	color: white;
 }
 
-
-
-.header {
-	width: 100%;
+span, .details {
+	display: inline-block;
+}
+aside {
 	background-color: grey;
-	height:50px;
 }
